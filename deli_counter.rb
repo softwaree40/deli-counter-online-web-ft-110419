@@ -1,5 +1,6 @@
 require 'pry'
 # Write your code here.
+<<<<<<< HEAD
 #katz_deli = []
 def line(katz_deli)
     #binding.pry
@@ -37,3 +38,11 @@ end
 
 
 
+=======
+def line(katz_deli)
+    if katz_deli == katz_deli
+      puts "The line is currently empty."
+  #binding.pry
+  end
+end
+>>>>>>> f6e81c70905cd229f051514f3382adb2b1ff43ce
